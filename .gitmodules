@@ -1,0 +1,27 @@
+[submodule "minecraft-bedrock-server"]
+	path = minecraft-bedrock-server
+	url = https://github.com/sjauijn/minecraft-bedrock-server-HAOS.git
+	branch = master
+[submodule "adguard-home-plus"]
+	path = adguard-home-plus
+	url = https://github.com/sjauijn/adguard-home-plus-HAOS.git
+	branch = main
+[submodule "immich-tiktok-remover"]
+	path = immich-tiktok-remover
+	url = https://github.com/sjauijn/immich-tiktok-remover-HAOS.git
+	branch = master
+[submodule "kavita"]
+	path = kavita
+	url = https://github.com/sjauijn/kavita-HAOS.git
+	branch = main
+[submodule "brave-go-sync"]
+	path = brave-go-sync
+	url = https://github.com/sjauijn/brave-go-sync-HAOS.git
+	branch = master
+[submodule "immich-face-to-album"]
+	path = immich-face-to-album
+	url = https://github.com/sjauijn/immich-face-to-album-HAOS.git
+	branch = main
+[submodule "crafty-4"]
+	path = crafty-4
+	url = https://github.com/sjauijn/Crafty-4-HAOS.git
